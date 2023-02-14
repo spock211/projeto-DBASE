@@ -1,0 +1,68 @@
+Set print on
+SET DATE FRENCH 
+CLEAR
+?
+?
+? ç
+"-----------------------------------------------------------------ç
+---------------"
+?
+? "                           Spock Informatica Ltda"
+? "                  Av Americas 6700 Lj 129 Std 211 - InfoBarra"
+? "                    Tel. 9263-7098/24312976/431-7152 Rangel"
+? ç
+"-----------------------------------------------------------------ç
+---------------"
+?
+? "Numero da OS:",os
+? "Data        :",data
+? "Hora        :",TIME()
+? "Nome        :",cliente
+? "Endereco    :",end
+? "Bairro      :",bairro
+? "Telefones   :",telef
+?
+? "Equipamento :",equipament
+? "Serial No   :",serial
+? "Cabos       :",cabos
+? "Fonte       :",fonte
+? "Cart.preto  :",cartpreto
+? "Cart.cor    :",cartcolor
+? "Def.Inform. :",defeito
+? "Def.Detect. :",defdet
+?
+? "Orcam.Inic. :",orcinicial
+?
+? "( ) VIRUS    ( ) RES VIDEO    ( ) BLASTER"
+? "( ) SONS     ( ) CD MUSICA    ( ) NORTON"
+? "( ) CDROM    ( ) DRIVE 1.44   ( ) DIRECTX"
+? "( ) MODEM    ( ) COM/LPT/USB"  
+? "( ) TECLADO  ( ) OFFICE"
+?
+? "A RETIRADA DE EQUIPAMENTOS DEVERA SER FEITA AT AS 18:00 h"
+? "---------------------------------------------------------"
+?
+? "Este orcamento deve ser considerado como condicional, caso as"
+? "pecas acima nao sejam as unicas defeituosas,mascarando outros"
+? "problemas. os Equiptos. nao retirados no prazo de 90 dias"
+? "poderao ser vendidos para compensar custos de reparo, mao de"
+? "obra, armazenagem e seguro."
+?
+? "A Empresa SPOCK INF.LTDA esta isenta de qualquer"
+? "responsabilidade sobre o software instalado no"
+? "equipamento."
+?
+?
+? "De acordo:_________________________________________."
+? "         ",cliente
+?
+?
+? "Declaro que recebi o equipto. acima descrito."
+?
+? "Devolvido em_______/_______/______."
+?
+? "Ass. do Cliente:_____________________________."
+? "               ",cliente
+EJECT
+set print off
+

@@ -1,0 +1,104 @@
+CLEAR
+USE ORC
+APPEND BLANK
+
+@2,3 SAY "Nome:"GET NOME
+@2,40 SAY "Telefone:"GET TEL
+
+@4,3 SAY "Pl mae:"GET PMAE
+@5,3 SAY "Dolar: "GET PRPMAE
+
+@6,3 SAY "Proc:  "GET PROC
+@7,3 SAY "Dolar: "GET PRPROC
+
+@8,3 SAY "Mem   :"GET MEM
+@9,3 SAY "Dolar: "GET PRMEM
+
+@10,3 SAY "Cooler:"GET COOLER
+@11,3 SAY "Reais: "GET PRCOOLER
+
+@ 12,3 SAY "Gab:   "GET GAB
+@ 13,3 SAY "Reais: "GET PRGAB
+
+@ 14,3 SAY "Drive: "GET DRIVE
+@ 15,3 SAY "Reais: "GET PRDRIVE
+
+@ 16,3 SAY "CDrom: "GET CDROM
+@ 17,3 SAY "Reais: "GET PRCDROM
+
+@ 18,3 SAY "CDRW  :"GET CDWRITER
+@ 19,3 SAY "Dolar: "GET PRCDWRITER
+
+@ 20,3 SAY "Dvd:   "GET DVD
+@ 21,3 SAY "Dolar: "GET PRDVD
+
+@4,32 SAY "Pl.Video:"GET PLVIDEO
+@5,32 SAY "Dolar:   "GET PRPLVIDEO
+
+@ 6,32 SAY "Pl.Som:  "GET PLSOM
+@ 7,32 SAY "Dolar:   "GET PRPLSOM
+
+@ 8,32 SAY "Cx Som:  "GET CXSOM
+@ 9,32 SAY "Reais:   "GET PRCXSOM
+
+@ 10,32 SAY "HD:      "GET HD
+@ 11,32 SAY "Dolar:   "GET PRHD
+
+@ 12,32 SAY "Modem:   "GET MODEM
+@ 13,32 SAY "Dolar:   "GET PRMODEM
+
+@ 14,32 SAY "Pl.Rede: "GET REDE
+@ 15,32 SAY "Dolar:   "GET PRREDE
+
+@ 16,32 SAY "Teclado: "GET TECLADO
+@ 17,32 SAY "Reais:   "GET PRTECLADO
+
+@ 18,32 SAY "Mouse:   "GET MOUSE
+@ 19,32 SAY "Reais:   "GET PRMOUSE
+
+@ 20,32 SAY "Monitor: "GET MONITOR
+@ 21,32 SAY "Reais  : "GET PRMONITOR
+
+@ 4,55 SAY "Estab: "GET EST
+@ 5,55 SAY "Reais: "GET PREST
+
+@ 6,55 SAY "Nbreak:"GET NOBREAK
+@ 7,55 SAY "Reais :"GET PRNOBREAK
+
+@ 8,55 SAY "Imp   :"GET IMP
+@ 9,55 SAY "Reais :"GET PRIMP
+
+@ 10,55 SAY "Scan : "GET SCANNER
+@ 11,55 SAY "Reais: "GET PRSCANNER
+
+@ 12,55 SAY "MObra: "GET MAOOBRA
+@ 13,55 SAY "Sist : "GET SISTEMA
+
+@ 15,55 SAY "Lucro: "GET LUCRO
+@ 16,55 SAY "Dolar: "GET DOLAR
+ 
+READ
+
+STORE 0 TO OPCAO
+DO WHILE OPCAO < 5
+
+@ 15,55 SAY "1. Imprimir"
+@ 16,55 SAY "2. Tela"
+@ 17,55 SAY "3. Gravar"
+@ 18,55 SAY "4. Apagar"
+@ 19,55 SAY "5. Retornar"
+@ 20,55 SAY "Opcao: "GET OPCAO
+READ
+DO CASE
+CASE OPCAO=1
+DO ORC
+CASE OPCAO=2
+DO TELA
+CASE OPCAO=3
+RETURN
+CASE OPCAO=4
+DO APAGAR
+CASE OPCAO=5
+RETURN
+ENDCASE OPCAO
+ENDDO

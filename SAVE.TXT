@@ -1,0 +1,44 @@
+
+
+                                        
+
+06/16/04 15:47:09
++------------------------------------------------------------------------------+
+                         Spock Informatica Ltda
+                Cnpj 02.619.316/0001-91 Ins.Est. 75873263
+                  Av.Americas 6700 Lj 129 std 211 - InfoBarra
+                              Tel.2431-2976
++------------------------------------------------------------------------------+
+Placa mae     : ASUS P4S8X-X        
+Processador   : PENTIUM IV 2600     
+Memoria       : 256DDR    
+Cooler        : CYBER     
+Gabinete      : ATX MEDIO 
+Drive 1.44    : 1.44      
+CDROM         : NAO       
+CDWRITER      : COMBO LG  
+DVD           : SIM       
+Placa de Video: GFORCE 4  
+Placa de som  : ON BOARD  
+Caixas de Som : 180W      
+Hard Disk     : 40GB 7200 
+Fax-Modem     : 56K V92   
+Placa de Rede : ON BOARD  
+Teclado       : PADRAO    
+Mouse         : PADRAO    
+Monitor       : SAMSUNG 15
+Estabilizador : PADRAO    
+No-Break      : NAO       
+Impressora    : NAO       
+Scanner       : WIN XP HOM
+SISTEMA OPER. : SIM       
+Total         :                         3414.96
+
+1 + 2 X       :                         1204.49
+1 + 5 X       :                          639.76
+1 + 11 X      :                          365.74
+1 + 24 X      :                          229.31
+
+
+                      Sujeito a alteracoes sem previo aviso
+

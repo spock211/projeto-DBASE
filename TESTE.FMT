@@ -1,0 +1,7 @@
+@ 10, 11  SAY "PMAE"
+@ 10, 17  GET  ORC->PMAE
+@ 13,  0  SAY "PRPMAE"
+@ 13, 12  GET  ORC->PRPMAE
+@  5,  9  TO  5, 39    DOUBLE
+@  8,  9  TO  8, 40    DOUBLE
+

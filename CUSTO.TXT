@@ -1,0 +1,42 @@
+
+
+
+05/26/04 17:31:11
++------------------------------------------------------------------------------+
+                         Spock Informatica Ltda
+                Cnpj 02.619.316/0001-91 Ins.Est. 75873263
+                  Av.Americas 6700 Lj 129 std 211 - InfoBarra
+                              Tel.2431-2976
++------------------------------------------------------------------------------+
+Placa mae     : ASUS A7V8X-MX               289.80
+Processador   : ATHLON XP 2400 MHZ          321.30
+Memoria       : 256DDR                      198.45
+Cooler        : CYBER                        16.00
+Gabinete      : ATX MEDIO                   106.00
+Drive 1.44    : 1.44                         30.00
+CDROM         : NAO                           0.00
+CDWRITER      : LG COMBO                    236.25
+DVD           : SIM                           0.00
+Placa de Video: ON BOARD                      0.00
+Placa de som  : ON BOARD                      0.00
+Caixas de Som : 180W                         12.00
+Hard Disk     : 40GB 5400                   258.30
+Fax-Modem     : 56K V92                      37.80
+Placa de Rede : ON BOARD                      0.00
+Teclado       : PADRAO                       19.00
+Mouse         : PADRAO PS2                    8.00
+Monitor       : SAMSUNG 15                  430.00
+Estabilizador : PADRAO                       26.00
+No-Break      : NAO                           0.00
+Impressora    : HP BASICA                   245.00
+Scanner       : NAO                           0.00
+
+Total         :                         2233.90
+
+Venda         :                         2700.79
+
+Lucro         :                          466.89
+
+
+                      Sujeito a alteracoes sem previo aviso
+
